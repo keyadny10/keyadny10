@@ -1,8 +1,8 @@
-- 👋 Hi, I’m TANG-YU-CHENG
+- 👋 Hi, I’m TANG-YOU-CHENG
 - 👀 I’m interested in hiking, cooking, and new things.
 - 🌱 I’m currently learning JAVA & VUE.js
 - 💞️ I'm looking for a company that can demonstrate the results of learning
-- 📫 You can contact me by sending an email to keyandy10@gmail.com
+- 📫 You can contact me by sending an email to .. keyandy10@gmail.com
 
 
 
